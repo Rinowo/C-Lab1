@@ -1,0 +1,15 @@
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Example.exe
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Example.deps.json
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Example.runtimeconfig.json
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Example.dll
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Example.pdb
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.csproj.AssemblyReference.cache
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.AssemblyInfo.cs
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.dll
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\Example.dll
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.pdb
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Example.genruntimeconfig.cache
+F:\T2106\C Sharp\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\Example.dll
